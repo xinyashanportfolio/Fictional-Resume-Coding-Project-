@@ -2,7 +2,7 @@
 
 ![HEADER-01-728x310](https://github.com/user-attachments/assets/64807200-21e5-4bf9-a899-7ae997d1b9ee)
 
-This resume is a fictional construct, developed purely for creative or technical demonstration purposes.
+This resume is a fictional construct, developed purely for creative and technical demonstration purposes.
 
 🌙 A creative, code-loving night owl with a passion for transforming ideas into interactive web experiences.
 
